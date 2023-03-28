@@ -1,0 +1,7 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Cáncer de mama'
+theme = "coyote"
+
+[outputs]
+  home = ['HTML', 'JSON']

@@ -5,3 +5,6 @@ theme = "coyote"
 
 [outputs]
   home = ['HTML', 'JSON']
+
+  [context.production.environment]
+  HUGO_VERSION = "0.99.1"

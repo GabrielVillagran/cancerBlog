@@ -1,6 +1,6 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'Rubi Villagrán --Cáncer de mama--'
+title = 'Cáncer de mama'
 theme = "coyote"
 
 [outputs]
